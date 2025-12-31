@@ -1,0 +1,2 @@
+2025-12-31 10:15:00 BLOCKED inbound tcp src=192.168.1.10 dst=192.168.1.5
+2025-12-31 10:16:00 ALLOWED outbound udp src=192.168.1.5 dst=8.8.8.8
